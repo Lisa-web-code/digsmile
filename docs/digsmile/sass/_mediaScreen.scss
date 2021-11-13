@@ -1,0 +1,16 @@
+
+@mixin sp-inner {
+  width: 90%;
+  margin: 0 auto;
+}
+
+@mixin tb-inner {
+  max-width: 520px;
+  margin-left: 5%;
+}
+
+@mixin pc-inner {
+  width: 76%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
